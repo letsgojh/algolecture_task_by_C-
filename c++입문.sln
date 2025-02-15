@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10871", "c++입문\c++입문.vcxproj", "{F7656857-5B9B-4DA6-9FF5-A171E5EE5343}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0x02", "0x02", "{16F00178-31CE-4484-8E95-24AA414BD613}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1000", "1000\1000.vcxproj", "{492D1899-45D8-468B-97CD-B791998CC859}"
 EndProject
